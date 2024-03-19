@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1710847101 source:c:\c++\cipher\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<algorithm>
+
